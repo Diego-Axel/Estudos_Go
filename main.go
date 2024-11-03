@@ -7,4 +7,3 @@ func main() {
 
 	fmt.Println("Olá, mundo", nome)
 }
-
