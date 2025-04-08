@@ -10,5 +10,3 @@ func main() {
 	fmt.Println("Seja bem vindo, ", nome)
 }
 
-
-
