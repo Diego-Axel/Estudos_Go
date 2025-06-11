@@ -129,3 +129,6 @@ func buscarProduto(scanner *bufio.Scanner, livraria Livraria) {
 		fmt.Println("❌ Produto não encontrado.")
 	}
 }
+
+
+
