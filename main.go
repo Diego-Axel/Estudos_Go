@@ -130,5 +130,4 @@ func buscarProduto(scanner *bufio.Scanner, livraria Livraria) {
 	}
 }
 
-
-
+dasdasdsada
