@@ -233,4 +233,4 @@ func main() {
 
 ---
 
-⬅️ Anterior: [Recursão](04-recursao.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Recursão](04-recursao.md) · ➡️ Próximo módulo: [Arrays, Slices e Maps](../06-arrays-slices-maps/README.md)
