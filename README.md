@@ -34,7 +34,8 @@ Estudos_Go/
 │   ├── 09-structs-e-metodos/ # Módulo 09 - Structs e Métodos
 │   ├── 10-interfaces/  # Módulo 10 - Interfaces
 │   ├── 11-tratamento-de-erros/ # Módulo 11 - Tratamento de erros
-│   └── 12-pacotes-e-modulos/ # Módulo 12 - Pacotes e Módulos
+│   ├── 12-pacotes-e-modulos/ # Módulo 12 - Pacotes e Módulos
+│   └── 13-generics/    # Módulo 13 - Generics
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
