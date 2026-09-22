@@ -23,7 +23,8 @@ Começou como um espaço para os meus estudos e anotações, e agora é um mater
 Estudos_Go/
 ├── estudos/            # Material de estudo (módulos em .md)
 │   ├── README.md       # Roteiro geral com todos os módulos
-│   └── 01-introducao/  # Módulo 01 - Introdução
+│   ├── 01-introducao/  # Módulo 01 - Introdução
+│   └── 02-fundamentos/ # Módulo 02 - Variáveis, tipos e constantes
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
