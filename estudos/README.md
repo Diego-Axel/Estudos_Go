@@ -12,7 +12,7 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | #  | Módulo | Status |
 |----|--------|--------|
 | 01 | [Introdução](01-introducao/) | ✅ |
-| 02 | Fundamentos: variáveis, tipos e constantes | ⏳ |
+| 02 | [Fundamentos: variáveis, tipos e constantes](02-fundamentos/) | ✅ |
 | 03 | Operadores | ⏳ |
 | 04 | Controle de fluxo (`if`, `for`, `switch`) | ⏳ |
 | 05 | Funções | ⏳ |
