@@ -201,4 +201,4 @@ fim:
 
 ---
 
-⬅️ Anterior: [switch](03-switch.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [switch](03-switch.md) · ➡️ Próximo módulo: [Funções](../05-funcoes/README.md)
