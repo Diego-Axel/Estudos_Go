@@ -27,7 +27,8 @@ Estudos_Go/
 │   ├── 02-fundamentos/ # Módulo 02 - Variáveis, tipos e constantes
 │   ├── 03-operadores/  # Módulo 03 - Operadores
 │   ├── 04-controle-de-fluxo/ # Módulo 04 - Controle de fluxo
-│   └── 05-funcoes/     # Módulo 05 - Funções
+│   ├── 05-funcoes/     # Módulo 05 - Funções
+│   └── 06-arrays-slices-maps/ # Módulo 06 - Arrays, Slices e Maps
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
