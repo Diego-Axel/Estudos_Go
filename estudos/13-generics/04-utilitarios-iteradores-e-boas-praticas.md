@@ -247,4 +247,4 @@ O compilador do Go gera código **compartilhado** entre tipos com "formato" pare
 
 ---
 
-⬅️ Anterior: [Tipos genéricos](03-tipos-genericos.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Tipos genéricos](03-tipos-genericos.md) · ➡️ Próximo módulo: [Concorrência](../14-concorrencia/README.md)

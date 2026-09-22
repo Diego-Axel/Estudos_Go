@@ -24,7 +24,7 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | 11 | [Tratamento de erros (`error`, `panic`, `recover`)](11-tratamento-de-erros/) | ✅ |
 | 12 | [Pacotes e Módulos (`go mod`)](12-pacotes-e-modulos/) | ✅ |
 | 13 | [Generics](13-generics/) | ✅ |
-| 14 | Concorrência (goroutines, channels, `select`, `sync`) | ⏳ |
+| 14 | [Concorrência (goroutines, channels, `select`, `sync`)](14-concorrencia/) | ✅ |
 | 15 | Testes (`testing`, benchmarks, table tests) | ⏳ |
 | 16 | Biblioteca padrão (`fmt`, `os`, `io`, `strings`, `time`, `encoding/json`...) | ⏳ |
 | 17 | Web com `net/http` | ⏳ |
