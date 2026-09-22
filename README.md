@@ -39,7 +39,8 @@ Estudos_Go/
 │   ├── 14-concorrencia/ # Módulo 14 - Concorrência
 │   ├── 15-testes/      # Módulo 15 - Testes
 │   ├── 16-biblioteca-padrao/ # Módulo 16 - Biblioteca padrão
-│   └── 17-web-net-http/ # Módulo 17 - Web com net/http
+│   ├── 17-web-net-http/ # Módulo 17 - Web com net/http
+│   └── 18-boas-praticas/ # Módulo 18 - Boas práticas e ferramentas
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
