@@ -21,7 +21,7 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | 08 | [Ponteiros](08-ponteiros/) | ✅ |
 | 09 | [Structs e Métodos](09-structs-e-metodos/) | ✅ |
 | 10 | [Interfaces](10-interfaces/) | ✅ |
-| 11 | Tratamento de erros (`error`, `panic`, `recover`) | ⏳ |
+| 11 | [Tratamento de erros (`error`, `panic`, `recover`)](11-tratamento-de-erros/) | ✅ |
 | 12 | Pacotes e Módulos (`go mod`) | ⏳ |
 | 13 | Generics | ⏳ |
 | 14 | Concorrência (goroutines, channels, `select`, `sync`) | ⏳ |
