@@ -32,7 +32,8 @@ Estudos_Go/
 │   ├── 07-strings-runes-bytes/ # Módulo 07 - Strings, Runes e Bytes
 │   ├── 08-ponteiros/   # Módulo 08 - Ponteiros
 │   ├── 09-structs-e-metodos/ # Módulo 09 - Structs e Métodos
-│   └── 10-interfaces/  # Módulo 10 - Interfaces
+│   ├── 10-interfaces/  # Módulo 10 - Interfaces
+│   └── 11-tratamento-de-erros/ # Módulo 11 - Tratamento de erros
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
