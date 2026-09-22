@@ -28,9 +28,9 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | 15 | [Testes (`testing`, benchmarks, table tests)](15-testes/) | ✅ |
 | 16 | [Biblioteca padrão (`fmt`, `os`, `io`, `strings`, `time`, `encoding/json`...)](16-biblioteca-padrao/) | ✅ |
 | 17 | [Web com `net/http`](17-web-net-http/) | ✅ |
-| 18 | Boas práticas e ferramentas (`gofmt`, `go vet`, idiomas de Go) | ⏳ |
+| 18 | [Boas práticas e ferramentas (`gofmt`, `go vet`, idiomas de Go)](18-boas-praticas/) | ✅ |
 
-✅ pronto · ⏳ em breve
+✅ pronto · 🎉 **Roteiro completo!** Todos os 18 módulos estão disponíveis.
 
 ---
 
