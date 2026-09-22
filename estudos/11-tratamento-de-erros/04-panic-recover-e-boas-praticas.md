@@ -245,4 +245,4 @@ func run() error {
 
 ---
 
-⬅️ Anterior: [Wrapping, Is, As e Join](03-wrapping-is-as-join.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Wrapping, Is, As e Join](03-wrapping-is-as-join.md) · ➡️ Próximo módulo: [Pacotes e Módulos](../12-pacotes-e-modulos/README.md)
