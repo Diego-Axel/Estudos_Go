@@ -165,4 +165,4 @@ fmt.Println(v)   // 42
 
 ---
 
-⬅️ Anterior: [Bit a bit](03-bit-a-bit.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Bit a bit](03-bit-a-bit.md) · ➡️ Próximo módulo: [Controle de fluxo](../04-controle-de-fluxo/README.md)
