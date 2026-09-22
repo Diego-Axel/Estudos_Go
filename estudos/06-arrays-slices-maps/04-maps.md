@@ -324,4 +324,4 @@ Maps **não são seguros** para várias goroutines escreverem ao mesmo tempo. O 
 
 ---
 
-⬅️ Anterior: [Slices: avançado](03-slices-avancado.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Slices: avançado](03-slices-avancado.md) · ➡️ Próximo módulo: [Strings, Runes e Bytes](../07-strings-runes-bytes/README.md)
