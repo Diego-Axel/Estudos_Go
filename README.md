@@ -26,7 +26,8 @@ Estudos_Go/
 │   ├── 01-introducao/  # Módulo 01 - Introdução
 │   ├── 02-fundamentos/ # Módulo 02 - Variáveis, tipos e constantes
 │   ├── 03-operadores/  # Módulo 03 - Operadores
-│   └── 04-controle-de-fluxo/ # Módulo 04 - Controle de fluxo
+│   ├── 04-controle-de-fluxo/ # Módulo 04 - Controle de fluxo
+│   └── 05-funcoes/     # Módulo 05 - Funções
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
