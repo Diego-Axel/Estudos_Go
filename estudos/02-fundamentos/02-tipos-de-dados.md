@@ -114,8 +114,11 @@ cientifico := 1.5e3   // 1500
 ### ⚠️ Imprecisão (acontece em qualquer linguagem)
 
 ```go
-fmt.Println(0.1 + 0.2) // 0.30000000000000004
+a, b := 0.1, 0.2
+fmt.Println(a + b) // 0.30000000000000004
 ```
+
+> 🧪 Curiosidade: `fmt.Println(0.1 + 0.2)` escrito direto imprime `0.3`. Com **constantes**, o compilador faz a conta com precisão exata (veja [Constantes](03-constantes-e-iota.md)). A imprecisão aparece quando os valores estão em **variáveis** `float64`.
 
 > 💰 **Nunca use float para dinheiro!** Guarde em centavos com `int64` (ex: R$ 10,50 → `1050`).
 
