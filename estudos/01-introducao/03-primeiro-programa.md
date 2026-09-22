@@ -206,4 +206,4 @@ func Soma(a, b int) int {         //    fica logo acima e começa com o nome
 
 ---
 
-⬅️ Anterior: [Instalação e ambiente](02-instalacao-e-ambiente.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Instalação e ambiente](02-instalacao-e-ambiente.md) · ➡️ Próximo módulo: [Fundamentos](../02-fundamentos/README.md)
