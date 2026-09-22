@@ -14,7 +14,7 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | 01 | [Introdução](01-introducao/) | ✅ |
 | 02 | [Fundamentos: variáveis, tipos e constantes](02-fundamentos/) | ✅ |
 | 03 | [Operadores](03-operadores/) | ✅ |
-| 04 | Controle de fluxo (`if`, `for`, `switch`) | ⏳ |
+| 04 | [Controle de fluxo (`if`, `for`, `switch`)](04-controle-de-fluxo/) | ✅ |
 | 05 | Funções | ⏳ |
 | 06 | Arrays, Slices e Maps | ⏳ |
 | 07 | Strings, Runes e Bytes | ⏳ |
