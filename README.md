@@ -35,7 +35,8 @@ Estudos_Go/
 │   ├── 10-interfaces/  # Módulo 10 - Interfaces
 │   ├── 11-tratamento-de-erros/ # Módulo 11 - Tratamento de erros
 │   ├── 12-pacotes-e-modulos/ # Módulo 12 - Pacotes e Módulos
-│   └── 13-generics/    # Módulo 13 - Generics
+│   ├── 13-generics/    # Módulo 13 - Generics
+│   └── 14-concorrencia/ # Módulo 14 - Concorrência
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
