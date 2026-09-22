@@ -165,4 +165,4 @@ Se um tipo é normalmente manipulado por ponteiro (`*Conta`), use ponteiro em **
 
 ---
 
-⬅️ Anterior: [Ponteiros com structs e coleções](03-ponteiros-com-structs-e-colecoes.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Ponteiros com structs e coleções](03-ponteiros-com-structs-e-colecoes.md) · ➡️ Próximo módulo: [Structs e Métodos](../09-structs-e-metodos/README.md)
