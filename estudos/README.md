@@ -17,7 +17,7 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | 04 | [Controle de fluxo (`if`, `for`, `switch`)](04-controle-de-fluxo/) | ✅ |
 | 05 | [Funções](05-funcoes/) | ✅ |
 | 06 | [Arrays, Slices e Maps](06-arrays-slices-maps/) | ✅ |
-| 07 | Strings, Runes e Bytes | ⏳ |
+| 07 | [Strings, Runes e Bytes](07-strings-runes-bytes/) | ✅ |
 | 08 | Ponteiros | ⏳ |
 | 09 | Structs e Métodos | ⏳ |
 | 10 | Interfaces | ⏳ |
