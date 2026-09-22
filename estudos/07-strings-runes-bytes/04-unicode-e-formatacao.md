@@ -234,4 +234,4 @@ err := fmt.Errorf("usuário %q não encontrado", "ana")
 
 ---
 
-⬅️ Anterior: [Construindo strings](03-construindo-strings.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Construindo strings](03-construindo-strings.md) · ➡️ Próximo módulo: [Ponteiros](../08-ponteiros/README.md)

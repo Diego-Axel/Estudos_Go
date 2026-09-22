@@ -29,7 +29,8 @@ Estudos_Go/
 │   ├── 04-controle-de-fluxo/ # Módulo 04 - Controle de fluxo
 │   ├── 05-funcoes/     # Módulo 05 - Funções
 │   ├── 06-arrays-slices-maps/ # Módulo 06 - Arrays, Slices e Maps
-│   └── 07-strings-runes-bytes/ # Módulo 07 - Strings, Runes e Bytes
+│   ├── 07-strings-runes-bytes/ # Módulo 07 - Strings, Runes e Bytes
+│   └── 08-ponteiros/   # Módulo 08 - Ponteiros
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```

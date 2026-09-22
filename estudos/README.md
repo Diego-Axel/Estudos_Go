@@ -18,7 +18,7 @@ Cada módulo é uma pasta com arquivos `.md` curtos, cheios de exemplos e exerc�
 | 05 | [Funções](05-funcoes/) | ✅ |
 | 06 | [Arrays, Slices e Maps](06-arrays-slices-maps/) | ✅ |
 | 07 | [Strings, Runes e Bytes](07-strings-runes-bytes/) | ✅ |
-| 08 | Ponteiros | ⏳ |
+| 08 | [Ponteiros](08-ponteiros/) | ✅ |
 | 09 | Structs e Métodos | ⏳ |
 | 10 | Interfaces | ⏳ |
 | 11 | Tratamento de erros (`error`, `panic`, `recover`) | ⏳ |
