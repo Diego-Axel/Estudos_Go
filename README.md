@@ -38,7 +38,8 @@ Estudos_Go/
 │   ├── 13-generics/    # Módulo 13 - Generics
 │   ├── 14-concorrencia/ # Módulo 14 - Concorrência
 │   ├── 15-testes/      # Módulo 15 - Testes
-│   └── 16-biblioteca-padrao/ # Módulo 16 - Biblioteca padrão
+│   ├── 16-biblioteca-padrao/ # Módulo 16 - Biblioteca padrão
+│   └── 17-web-net-http/ # Módulo 17 - Web com net/http
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
