@@ -305,4 +305,4 @@ A cada push, o GitHub roda os testes e mostra ✅ ou ❌ no commit.
 
 ---
 
-⬅️ Anterior: [Cobertura, benchmarks e exemplos](03-cobertura-benchmarks-e-exemplos.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Cobertura, benchmarks e exemplos](03-cobertura-benchmarks-e-exemplos.md) · ➡️ Próximo módulo: [Biblioteca padrão](../16-biblioteca-padrao/README.md)
