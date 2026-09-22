@@ -188,4 +188,4 @@ fmt.Println(CParaF(100)) // 212
 
 ---
 
-⬅️ Anterior: [Constantes e iota](03-constantes-e-iota.md) · 🏠 [Voltar ao roteiro](../README.md)
+⬅️ Anterior: [Constantes e iota](03-constantes-e-iota.md) · ➡️ Próximo módulo: [Operadores](../03-operadores/README.md)
