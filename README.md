@@ -37,7 +37,8 @@ Estudos_Go/
 │   ├── 12-pacotes-e-modulos/ # Módulo 12 - Pacotes e Módulos
 │   ├── 13-generics/    # Módulo 13 - Generics
 │   ├── 14-concorrencia/ # Módulo 14 - Concorrência
-│   └── 15-testes/      # Módulo 15 - Testes
+│   ├── 15-testes/      # Módulo 15 - Testes
+│   └── 16-biblioteca-padrao/ # Módulo 16 - Biblioteca padrão
 ├── main.go             # Projeto prático: sistema de livraria
 └── README.md
 ```
